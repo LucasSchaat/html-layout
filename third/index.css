@@ -1,0 +1,58 @@
+body .main-wrapper {
+    width: 100vw;
+    height: 100vh;
+}
+
+.first-section {
+    width: 100%;
+    height: 15%;
+    background: #d4d1d1;
+    display: inline-block
+}
+
+.box-one {
+    width: 10.75%;
+    height: 85%;
+    background: #576ff8;
+    margin: 1vh 0 0 20px;
+    float: left;
+    display: inline-block;
+}
+
+.second-section {
+    width: 100%;
+    height: 25%;
+}
+
+.text {
+    width: 90%;
+    font-family: "Calibri", sans-serif;
+    color: #363636;
+    margin: 30px auto 10px;
+    font-size: 20px;
+
+}
+
+.third-section {
+    width: 100%;
+    height: 15%;
+    background: #576ff8;
+}
+
+.fourth-section {
+    width: 100%;
+    height: 15%;
+    background: #28c49d;
+}
+
+.fifth-section {
+    width: 100%;
+    height: 15%;
+    background: #a3c565;
+}
+
+.sixth-section {
+    width: 100%;
+    height: 15%;
+    background: #f1f11c;
+}
